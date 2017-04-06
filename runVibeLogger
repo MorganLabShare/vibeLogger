@@ -1,2 +1,2 @@
 #!/bin/bash
-python /home/pi/MorganLab/vibeLogger.py
+python /home/pi/MorganLab/vibeLogger/vibeLogger.py
